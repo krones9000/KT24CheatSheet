@@ -52,7 +52,7 @@ DICE.png
 
 HEALTH.png
 
-<img src="https://github.com/user-attachments/assets/b4682bdf-d802-4824-952d-f79917d42f06" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/b4682bdf-d802-4824-952d-f79917d42f06" width="100">
 
 LOOP.png
 
