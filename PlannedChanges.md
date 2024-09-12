@@ -5,3 +5,5 @@ Notes for possible changes in Vers. 2. The next version will likely be published
 2. Expand Climb slightly to explain how to calculate your climb movement.
 
 3. Bold any AP costs shown.
+
+4. Unify main title format ("-") on page 1.
