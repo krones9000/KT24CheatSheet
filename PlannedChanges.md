@@ -10,4 +10,12 @@ Notes for possible changes in Vers. 2. The next version will likely be published
 
 Above implemented as of Vers.1.1
 
-5. ...
+~~5. Ammo resupply in mine section.~~
+
+~~6. Clarified SCOUTING winner.~~
+
+~~7. Razor wire, added "Exposed".~~
+
+Above implemented as of Vers.1.11
+
+8. ...
