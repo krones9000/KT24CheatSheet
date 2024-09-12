@@ -26,7 +26,7 @@ Everything should be sized correctly to fill an A4 page. However, this is untest
 
 ### Any image assets used. 
 
-<img src="https://github.com/user-attachments/assets/e69e12ba-876d-4893-bcbb-8878c028659d" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/e69e12ba-876d-4893-bcbb-8878c028659d" width="100">
 
 ENGAGE.png
 
@@ -34,7 +34,7 @@ Crosshair **modified** from: https://commons.wikimedia.org/wiki/File:Font_Awesom
 
 Attribution: Font Awesome Free 5.2.0 by @fontawesome - https://fontawesome.com
 
-<img src="https://github.com/user-attachments/assets/403054da-0bff-4eb3-b779-2e20e5f0e3b2" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/403054da-0bff-4eb3-b779-2e20e5f0e3b2" width="100">
 
 CONCEAL.png 
 
@@ -44,11 +44,11 @@ Attribution: [RootOfAllLight](https://commons.wikimedia.org/wiki/User:RootOfAllL
 
 ### Any image assets produced by me using [Krita](https://krita.org/en/).
 
-<img src="https://github.com/user-attachments/assets/fb3e8691-67b4-4631-89b1-6a29d3b465cd" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/fb3e8691-67b4-4631-89b1-6a29d3b465cd" width="100">
 
 DICE.png
 
-<img src="https://github.com/user-attachments/assets/a2a6bea4-cced-4e31-ad79-eba1b03ff6ee" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/a2a6bea4-cced-4e31-ad79-eba1b03ff6ee" width="100">
 
 HEALTH.png
 
