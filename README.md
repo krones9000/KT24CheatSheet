@@ -13,7 +13,7 @@ I can't promise how regularly I will update this but I will be updating it for m
 * **Everything must fit on a single sheet of A4 paper.** I may add a "tablet" sized version to this repo but it is hard to account for all screen sizes/ratios.
 * Sections should be visually clear and arranged in a way that makes sense. Either alphabetized where lists are long **OR** sorted/grouped logically where lists are shorter.
 * Each Killzone should be covered as well as any specific nuances when playing there.
-* Readers should not have to flip the page over and back regularly. **This is why much of the content is duplicated** on the premis that basics of movement and gameplay loop will become memorized earlier.
+* Readers should not have to flip the page over and back regularly. **This is why much of the content is duplicated** on the premise that basics of movement and gameplay loop will become memorized earlier.
 * **THIS IS NOT A REPLACEMENT FOR READING THE CORE RULES.** Everything has been simplified and condensed, removing words and changing how things are expressed to save space/time. This should be used to quickly check you're remembering correctly, not as a replacement for actually learning the game.
 
 ## All files are provided
