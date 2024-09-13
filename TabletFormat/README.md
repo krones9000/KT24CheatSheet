@@ -1,0 +1,1 @@
+# These files are formatted for a Kindle Fire HD 10. This means that the screen will be fully filled by the sheet when there is no top or bottom bar visible. I will not be actively maintaining these files vs the main version but they are provided for completeness and I will update them if I do so for myself.
