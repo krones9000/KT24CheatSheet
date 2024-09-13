@@ -2,7 +2,7 @@
 
 A Cheat Sheet for the basic rules of Kill Team 2024 focused on the core PvP gameplay loop (I may create a PvE copy if the game style becomes popular). **If you would like to see a change please open an [Issue in the Issues tab](https://github.com/krones9000/KT24CheatSheet/issues).**
 
-<img src="https://github.com/user-attachments/assets/87d18b45-1644-4808-a5ba-fac6d6d4d2d4" width="800">
+<img src="https://github.com/user-attachments/assets/4c934f14-5224-4012-a0d6-ded0991242ca" width="800">
 
 ### This Cheat Sheet was built with help from the [/r/KillTeam Community](https://www.reddit.com/r/killteam/). It draws particularly on the content and structure of /u/ChronoDK's original KT21 Cheet Sheet. 
 
