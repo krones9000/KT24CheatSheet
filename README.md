@@ -56,6 +56,10 @@ HEALTH.png
 
 LOOP.png
 
+<img src="https://github.com/user-attachments/assets/07362661-5679-4c5a-a421-b665edc7af8e" width="100">
+
+BLADES.png
+
 
 
 
