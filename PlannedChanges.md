@@ -20,4 +20,10 @@ Above implemented as of Vers.1.1
 
 Above implemented as of Vers.1.11
 
-9. ...
+~~9. Clean up structure for better printing.~~
+
+Above implemented as of Vers.1.13
+
+10. Fix ITD Guard "retaliate" wording for clarity.
+
+11. ...
