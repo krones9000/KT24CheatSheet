@@ -10,7 +10,7 @@ I can't promise how regularly I will update this but I will be updating it for m
 
 #### The Cheat Sheet tries to achieve several things at once (please keep these in mind if suggesting revisions):
 
-* **Everything must fit on a single sheet of A4 paper.** I may add a "tablet" sized version to this repo but it is hard to account for all screen sizes/ratios.
+* **Everything must fit on a single sheet of A4 paper.** I have add a "tablet" sized version to this repo but it is hard to account for all screen sizes/ratios.
 * Sections should be visually clear and arranged in a way that makes sense. Either alphabetized where lists are long **OR** sorted/grouped logically where lists are shorter.
 * Each Killzone should be covered as well as any specific nuances when playing there.
 * Readers should not have to flip the page over and back regularly. **This is why much of the content is duplicated** on the premise that basics of movement and gameplay loop will become memorized earlier.
