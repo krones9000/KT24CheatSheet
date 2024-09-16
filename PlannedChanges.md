@@ -26,4 +26,9 @@ Above implemented as of Vers.1.11
 
 Above implemented as of Vers.1.13
 
-11. ...
+~~11. Improve consistency of Visiblity wording.~~
+
+Above implemented as of Vers.1.14
+
+12. ...
+13.  
