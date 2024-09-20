@@ -31,6 +31,6 @@ Above implemented as of Vers.1.13
 Above implemented as of Vers.1.14
 
 12. Equipment: unify "FLOOR" and "MORE".
-13. ...
+13. Remove "that is "visible" to it."
 14. ...
 15.  
