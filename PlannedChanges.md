@@ -30,5 +30,7 @@ Above implemented as of Vers.1.13
 
 Above implemented as of Vers.1.14
 
-12. ...
-13.  
+12. Equipment: unify "FLOOR" and "MORE".
+13. ...
+14. ...
+15.  
