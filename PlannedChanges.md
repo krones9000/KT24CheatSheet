@@ -32,5 +32,6 @@ Above implemented as of Vers.1.14
 
 12. Equipment: unify "FLOOR" and "MORE".
 13. Remove "that is "visible" to it."
-14. ...
-15.  
+14. Update "Guard" to clarify around it being a "Shoot" action.
+15. ...
+16.  
