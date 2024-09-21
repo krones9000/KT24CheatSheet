@@ -34,5 +34,6 @@ Above implemented as of Vers.1.14
 13. Remove "that is "visible" to it."
 14. Update "Guard" to clarify around it being a "Shoot" action.
 15. Check Kill op scoring (+1 to winner)
-16. ...
-17.  
+16. Mission scoring NOPE during TP1?
+17. ...
+18.  
