@@ -46,6 +46,6 @@ Above implemented as of Vers.1.2
 
 19. a
 20. b
-21. 
-22. c
+21. c
+22. d
 23.   
