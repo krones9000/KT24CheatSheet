@@ -2,7 +2,7 @@
 
 A Cheat Sheet for the basic rules of Kill Team 2024 focused on the core PvP gameplay loop (I may create a PvE copy if the game style becomes popular). **If you would like to see a change please open an [Issue in the Issues tab](https://github.com/krones9000/KT24CheatSheet/issues).**
 
-<img src="https://github.com/user-attachments/assets/4c934f14-5224-4012-a0d6-ded0991242ca" width="800">
+<img src="https://github.com/user-attachments/assets/97c4932b-0306-4009-aff2-f8770be13b4c" width="800">
 
 ### This Cheat Sheet was built with help from the [/r/KillTeam Community](https://www.reddit.com/r/killteam/). It draws particularly on the content and structure of /u/ChronoDK's original KT21 Cheet Sheet. 
 
@@ -13,7 +13,6 @@ I will generally try to keep this up to date but send raise an Issue if you thin
 * **Everything must fit on a single sheet of A4 paper.** I have add a "tablet" sized version to this repo but it is hard to account for all screen sizes/ratios.
 * Sections should be visually clear and arranged in a way that makes sense. Either alphabetized where lists are long **OR** sorted/grouped logically where lists are shorter.
 * Each Killzone should be covered as well as any specific nuances when playing there.
-* Readers should not have to flip the page over and back regularly. **This is why much of the content is duplicated** on the premise that basics of movement and gameplay loop will become memorized earlier.
 * **THIS IS NOT A REPLACEMENT FOR READING THE CORE RULES.** Everything has been simplified and condensed, removing words and changing how things are expressed to save space/time. This should be used to quickly check you're remembering correctly, not as a replacement for actually learning the game.
 
 ## All files are provided
