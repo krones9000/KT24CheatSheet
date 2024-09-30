@@ -30,10 +30,14 @@ Above implemented as of Vers.1.13
 
 Above implemented as of Vers.1.14
 
-12. Equipment: unify "FLOOR" and "MORE".
-13. Remove "that is "visible" to it."
-14. Update "Guard" to clarify around it being a "Shoot" action.
-15. Check Kill op scoring (+1 to winner)
-16. Mission scoring NOPE during TP1?
-17. ...
-18.  
+~~12. Equipment: unify "FLOOR" and "MORE".~~
+~~13. Remove "that is "visible" to it."~~
+~~14. Update "Guard" to clarify around it being a "Shoot" action.~~
+~~15. Check Kill op scoring (+1 to winner)~~
+~~16. Mission scoring NOPE during TP1?~~
+~~17. Font size changes implemented, removed duplication.~~
+Above implemented as of Vers.1.2
+19. a
+20. b
+21. c
+22.   
