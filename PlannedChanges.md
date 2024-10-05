@@ -44,7 +44,7 @@ Above implemented as of Vers.1.14
 
 Above implemented as of Vers.1.2
 
-19. a
+19. Check Kill OP Scoring AGAIN.
 20. b
 21. c
 22. d
