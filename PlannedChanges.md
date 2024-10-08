@@ -42,10 +42,11 @@ Above implemented as of Vers.1.14
 
 ~~17. Font size changes implemented, removed duplication.~~
 
-Above implemented as of Vers.1.2
+~~19. Check Kill OP Scoring AGAIN.~~
 
-19. Check Kill OP Scoring AGAIN.
-20. b
-21. c
-22. d
-23.   
+Above implemented as of Vers.1.21
+
+21. b
+22. c
+23. d
+24.   
