@@ -46,7 +46,7 @@ Above implemented as of Vers.1.14
 
 Above implemented as of Vers.1.21
 
-21. b
+21. Check Razor Wire wording.
 22. c
 23. d
 24.   
