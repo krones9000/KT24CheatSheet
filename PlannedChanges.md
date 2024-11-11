@@ -47,6 +47,6 @@ Above implemented as of Vers.1.14
 Above implemented as of Vers.1.21
 
 21. Check Razor Wire wording.
-22. c
+22. Volkus Devestating X wording.
 23. d
 24.   
